@@ -1,1 +1,1 @@
-This is a readme file inside 0x01-git
+This is an assignment repo, from the alx school
